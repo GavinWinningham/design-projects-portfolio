@@ -4,9 +4,9 @@
 
 
 ## Analyze 
-# Portfolio Analysis 
+### Portfolio Analysis 
 
-1. Logan Gehringer
+1. Logan Gehringer : https://instructure.charlotte.edu/eportfolios/4903/home/about-me
 
 a1.  Navigability: Any user has easy acess to different tabs and major assignments on this portfolio and can all be accomplished within 60 seconds or less. The portfolio utilized section breaks and headers for major areas and sections to allow for easy navigation and a table of contents for quick and seamless navigation. However, finding specific pieces of work would take more time as the portfolio does not utilize any subsection headers within the larger sections.  
 
@@ -20,7 +20,7 @@ Overall 1. This portfolio had a very strong personal background and showed a tru
 
 
 
-# Product Analysis 
+### Product Analysis 
 
 A. The primary function of this product is to apply a compressive force across the end of a foldable maluable bag or container in order to limit the bag's elasticity to go to its origonal shape and limit air exchange. The clip converts the force applied by the user to open the product into stored elastic energy within the spring. The user then can utilize this mechanism to place maluable objects within the two identical jaws to quarentiene the objects from outside air and contaminants. 
 
