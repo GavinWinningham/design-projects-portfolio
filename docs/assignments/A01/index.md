@@ -30,6 +30,15 @@ An expression for this behavior is as follows
 
 T = K(theta)
 
+T = Resistive Torque Produced by Spring
+
+K = Spring Constant
+
+theta = Angular Deflection From Unloaded Position 
+
+One assumption that makes this model valid is that the two arms act as rigig bodies and the spring creates the elastic deformation. During use, the primary movement is the rotation of the two arms about the pivot point. If the arms were to bend a significant amount the clip would no longer fulfill its intended purpose. 
+
+C. <img width="3024" height="4032" alt="IMG_3839" src="https://github.com/user-attachments/assets/2f3bd6cd-a71f-44a4-92fc-9adde54a151c" />
 
 
 ## Decide
