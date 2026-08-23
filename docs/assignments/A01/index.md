@@ -4,7 +4,7 @@
 
 
 ## Analyze 
-#Portfolio Analysis 
+# Portfolio Analysis 
 
 1. Logan Gehringer
 
@@ -20,7 +20,7 @@ Overall 1. This portfolio had a very strong personal background and showed a tru
 
 
 
-#Product Analysis 
+# Product Analysis 
 
 A. The primary function of this product is to apply a compressive force across the end of a foldable maluable bag or container in order to limit the bag's elasticity to go to its origonal shape and limit air exchange. The clip converts the force applied by the user to open the product into stored elastic energy within the spring. The user then can utilize this mechanism to place maluable objects within the two identical jaws to quarentiene the objects from outside air and contaminants. 
 
