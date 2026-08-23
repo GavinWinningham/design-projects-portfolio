@@ -18,6 +18,20 @@ d1.  Professional tone: The tone of this portfolio is professional and acceptabl
 
 Overall 1. This portfolio had a very strong personal background and showed a true interest in engineering. The portfolio's main weakness lies in how the reasoning process is structured; ideas are often explained, but reasoning is not always easy to follow or reproduce. 
 
+
+
+#Product Analysis 
+
+A. The primary function of this product is to apply a compressive force across the end of a foldable maluable bag or container in order to limit the bag's elasticity to go to its origonal shape and limit air exchange. The clip converts the force applied by the user to open the product into stored elastic energy within the spring. The user then can utilize this mechanism to place maluable objects within the two identical jaws to quarentiene the objects from outside air and contaminants. 
+
+B. The governing model for this product is static equilibrium moment balance with a spring generating torque resistance. In a general spring loaded chip clip has two arms that rotate about a pivot point with a spring wrapped around the pin that holds the two jaws at the pivit point. The ends of the spring are then straighened and they are placed on oppicate jaws to resist the motion of seperating the two jaws. When a user is to squeez the handles of the product, it creates a moment at the pivot point, allowing rotation of the ends of the jaws. When the handle is released the spring then creates a moment in the opposite direction of the user, causing the jaws to rotate the opposite direction, clamping the object that the user desires.
+
+An expression for this behavior is as follows
+
+T = K(theta)
+
+
+
 ## Decide
 
 
