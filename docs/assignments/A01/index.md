@@ -38,9 +38,9 @@ theta = Angular Deflection From Unloaded Position
 
 One assumption that makes this model valid is that the two arms act as rigig bodies and the spring creates the elastic deformation. During use, the primary movement is the rotation of the two arms about the pivot point. If the arms were to bend a significant amount the clip would no longer fulfill its intended purpose. 
 
-<img width="350" height="550" alt="IMG_3839" src="https://github.com/user-attachments/assets/2f3bd6cd-a71f-44a4-92fc-9adde54a151c" /> <img width="350" height="550" alt="IMG_3841" src="https://github.com/user-attachments/assets/ba8cf9c1-884a-4e38-8484-00933ec763bd" />
+C.<img width="350" height="550" alt="IMG_3839" src="https://github.com/user-attachments/assets/2f3bd6cd-a71f-44a4-92fc-9adde54a151c" /> <img width="350" height="550" alt="IMG_3841" src="https://github.com/user-attachments/assets/ba8cf9c1-884a-4e38-8484-00933ec763bd" />
 
-C. ### Plastic Clamping Arm
+#### Plastic Clamping Arm
 
 This product utilized two identical plastic arms; its geometry includes a long clamping section followed by a shorter handle section. Many spring clips utilize a longer handle to allow the user a better mechanical advantage when in use, though my product utilized the opposite geometry. The longer clamping section increases the surface area in contact with the bag in comparison to a standard geometry clip, allowing for a more distributed compressive force. Following the pin connection on the arm, the handle portions curve upward away from the jaw line. This geometry allows for increased separation of the handles and allows the jaws to open wider for every degree of rotation. The wider opening allows the user to easily place the clip over thicker folded sections or objects.
 
