@@ -39,7 +39,7 @@ theta = Angular Deflection From Unloaded Position
 One assumption that makes this model valid is that the two arms act as rigig bodies and the spring creates the elastic deformation. During use, the primary movement is the rotation of the two arms about the pivot point. If the arms were to bend a significant amount the clip would no longer fulfill its intended purpose. 
 
 C.
-<img width="500" height="700" alt="IMG_3839" src="https://github.com/user-attachments/assets/2f3bd6cd-a71f-44a4-92fc-9adde54a151c" /> <img width="500" height="700" alt="IMG_3841" src="https://github.com/user-attachments/assets/ba8cf9c1-884a-4e38-8484-00933ec763bd" />
+<img width="350" height="550" alt="IMG_3839" src="https://github.com/user-attachments/assets/2f3bd6cd-a71f-44a4-92fc-9adde54a151c" /> <img width="350" height="550" alt="IMG_3841" src="https://github.com/user-attachments/assets/ba8cf9c1-884a-4e38-8484-00933ec763bd" />
 
 
 ## Decide
