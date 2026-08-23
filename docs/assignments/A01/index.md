@@ -44,9 +44,15 @@ C.<img width="350" height="550" alt="IMG_3839" src="https://github.com/user-atta
 
 This product utilized two identical plastic arms; its geometry includes a long clamping section followed by a shorter handle section. Many spring clips utilize a longer handle to allow the user a better mechanical advantage when in use, though my product utilized the opposite geometry. The longer clamping section increases the surface area in contact with the bag in comparison to a standard geometry clip, allowing for a more distributed compressive force. Following the pin connection on the arm, the handle portions curve upward away from the jaw line. This geometry allows for increased separation of the handles and allows the jaws to open wider for every degree of rotation. The wider opening allows the user to easily place the clip over thicker folded sections or objects.
 
-####Metal Spring
+#### Metal Spring
 
 The spring is the primary force element within this product, it geometry allows for deflection and twisting when the product is opened and to return to its origonal position when the user is to release. This mechanism creates the restoritive force that subsequently clamps the jaws to the object. The spring is located at the pivot point of the product to allow for stored elastic energy to be easily converted into rotational motion. The spring itself is a compact design that minimizes interference with the jaws to maximize jaw surface area with objects of the user's choice.
+
+#### Pivot Pin
+
+The pivot pin runs through both plastic arms and through the spring, holding the entire product together. Its geometry creates the axis for witch the plastic arms rotate, allowing for controlled rotation rather than deflection or bending at an axial point. The pin helps maintain alignment between both arms and the spring, maintaining position and a consistent closing moment.
+
+D. 
 
 ## Decide
 
