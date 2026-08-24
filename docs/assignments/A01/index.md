@@ -60,6 +60,9 @@ ii. One design choice made by the engineer that piqued my interest was the elong
 
 ## Decide
 
+### Decision 1: Homepage Identiy 
+
+On the homepage I want the reader to immediately understand this is an engineering portfolio; it needs to communicate to the reader exactly what is contained within the portfolio, how its orginized, how to navigate it, and what to expect to see. 
 
 ## Communicate
 
