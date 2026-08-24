@@ -62,7 +62,11 @@ ii. One design choice made by the engineer that piqued my interest was the elong
 
 ### Decision 1: Homepage Identiy 
 
-On the homepage I want the reader to immediately understand this is an engineering portfolio; it needs to communicate to the reader exactly what is contained within the portfolio, how its orginized, how to navigate it, and what to expect to see. 
+On the homepage, I want the reader to immediately understand this is an engineering portfolio; it needs to communicate to the reader exactly what is contained within the portfolio, how it's organized, how to navigate it, and what to expect to see. I feel this is most important in the case my future employer were to see this portfolio; they should be able to understand it quickly without having to search.
+
+### Decision 2: Intentional Customization
+
+I changed the format by adding headers to different sections and added subheaders to, for example the different parts of the product I analyzed. I signified when questions were being answered with labels correlating to the letter or number they represented in the assignment details. The overall template had no organization or structure, but with the addition of my changes I feel it's much more professional and will allow someone navigating my site to do so effectively. 
 
 ## Communicate
 
