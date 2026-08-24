@@ -68,5 +68,9 @@ On the homepage, I want the reader to immediately understand this is an engineer
 
 I changed the format by adding headers to different sections and added subheaders to, for example the different parts of the product I analyzed. I signified when questions were being answered with labels correlating to the letter or number they represented in the assignment details. The overall template had no organization or structure, but with the addition of my changes I feel it's much more professional and will allow someone navigating my site to do so effectively. 
 
+### Decision 3: Documentation Standard
+
+I intend for every assignment going forward to utilize reasoning in every decision made, and include enough detail that someone else could replicate the material without any questions.
+
 ## Communicate
 
