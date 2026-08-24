@@ -53,7 +53,9 @@ The spring is the primary force element within this product, it geometry allows 
 The pivot pin runs through both plastic arms and through the spring, holding the entire product together. Its geometry creates the axis for witch the plastic arms rotate, allowing for controlled rotation rather than deflection or bending at an axial point. The pin helps maintain alignment between both arms and the spring, maintaining position and a consistent closing moment.
 
 D. A similar patent to my product is "US5802677A Bag closure clip", Inventors: John G. DormanGordon IsengaRussell O. Blanchard 
+
 i. Alternative solutions that have the same primary function are zipper storage bags that utilize interlocking plastic liners that seal with one another. Twist ties close bags by wrapping around the opening, utilizing the deformation of a wire to ensure the bag remains closed.
+
 ii. One design choice made by the engineer that piqued my interest was the elongated clamping jaws with significant surface area. I believe this choice was made to account for bags with significantly larger openings to ensure compression evenly and increase grip on these larger bags. Although a longer jaw will require more material and reduce the compactness of the product, its application is very effective and the trade-off for ergonomics is sensible for the use.  
 
 ## Decide
