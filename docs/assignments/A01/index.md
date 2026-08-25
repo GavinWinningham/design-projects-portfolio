@@ -1,4 +1,4 @@
-# A1 – [Topic]
+# A1
 
 ## Objective
 
@@ -77,6 +77,3 @@ I changed the format by adding headers to different sections and added subheader
 ### Decision 3: Documentation Standard
 
 I intend for every assignment going forward to utilize reasoning in every decision made, and include enough detail that someone else could replicate the material without any questions.
-
-## Communicate
-
