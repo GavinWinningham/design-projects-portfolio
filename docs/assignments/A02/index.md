@@ -1,9 +1,28 @@
 # A2 – Truss Stress Analysis
 
-## Objective
+## Objectives
 
+1. Design a lightweight planar truss using A500 steel or an alternative material.
+2. Create free body diagrams (FBDs) for joints and critical pins.
+3. Calculate the required cross-sectional area of truss elements with a safety factor.
+4. Determine pin sizes based on shear forces with a safety factor.
+5. Solve equations symbolically and numerically for both truss and pin design.
+6. Estimate the total weight of the truss and pins.
+7. Create a CAD model with accurate dimensions and connections.
+8. Compare CAD weight predictions with hand calculations.
+9. Document key engineering lessons learned from the process.
 
-## Analyze
+## Documentation
+
+I was tasked with creating a truss system with the parameters as follows.
+<img width="317" height="215" alt="image" src="https://github.com/user-attachments/assets/64b394ad-5eb7-4831-9edc-1b44ba3330e7" />
+
+Force P = 20KN a = .4 m, b = .3 m
+
+###Design Geometry
+
+<img width="2360" height="1099" alt="IMG_0035" src="https://github.com/user-attachments/assets/68c246ce-a098-4e90-9d75-5937b51b2f90" />
+This image depicts the truss geometry I selected with the assignment's constraints. My intention with this design was to make the truss as simple as possible while being able to carry the required ammount, and being as lightweight as possible to reduce the cost of this truss. This design utilizes a limited number of members and due to its simplistic design, calculations on internal and external forces are much more straightforward.
 
 
 ## Decide
