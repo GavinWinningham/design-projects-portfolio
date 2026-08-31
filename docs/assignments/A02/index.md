@@ -20,7 +20,7 @@ I was tasked with creating a truss system with the parameters as follows.
 
 Force P = 20KN a = .4 m, b = .3 m
 
-### Design Geometry
+## Design Geometry
 
 <img width="2360" height="1099" alt="IMG_0035" src="https://github.com/user-attachments/assets/68c246ce-a098-4e90-9d75-5937b51b2f90" />
 This image depicts the truss geometry I selected with the assignment's constraints. My intention with this design was to make the truss as simple as possible while being able to carry the required ammount, and being as lightweight as possible to reduce the cost of this truss. This design utilizes a limited number of members, and due to its simplistic design, calculations on internal and external forces are much more straightforward.
@@ -28,10 +28,16 @@ This image depicts the truss geometry I selected with the assignment's constrain
 <img width="2360" height="1279" alt="IMG_0036" src="https://github.com/user-attachments/assets/af7d6af2-1137-481b-8ab9-29bda26c8f18" />
 This image shows my process of solving for external supports utilizing the free-body diagram (FBD) I created along with the geometry of this project. I applied static equilibrium to the truss by first taking a moment about pin B and getting the reaction at pin A. I then summed my forces in the y-direction, as I only had one unknown, and found the reaction force at B.
 
-### Internal Forces
+## Internal Forces
 
 <img width="2053" height="1181" alt="IMG_0037" src="https://github.com/user-attachments/assets/e4730f26-a80a-49e4-9718-0922ba8f6285" />
-This image shows my work done utilizing methoid of joints to solve for the internal forces in each truss member. I analyzed each pin at a time utilizing equilibrium to determine whether the different members were in tension, compression, or a zero-value force. This step allowed me to visualize and see what members were under the most tension or compression and calculate real values to utilize in calculations regarding stress and shear.
+This image shows my work done utilizing the method of joints to solve for the internal forces in each truss member. I analyzed each pin at a time utilizing equilibrium to determine whether the different members were in tension, compression, or a zero-value force. This step allowed me to visualize and see what members were under the most tension or compression and calculate real values to utilize in calculations regarding stress and shear.
+
+## Member Cross Sectional Area / Weight
+
+<img width="2198" height="790" alt="IMG_0038" src="https://github.com/user-attachments/assets/52d1dbed-37c6-4126-8de6-3efd02e1e13a" />
+These calculations show how I arrived at the minimum required cross-sectional area for the truss members utilizing the largest internal force experienced in the truss. I utilized an average stress limit of 315MPA for A500 steel in this calculation. I related the normal stress equation to the allowable design stress, utilized 315MPA as my limit stress, and utilized the maximum force experienced by the truss being 16.02KN. After plugging in the values, I obtained a minimum cross-sectional area of 178mm2. I then took the weight of the entire truss, first calculating the total length of the truss to then find the total volume of the truss. Once I had arrived at the volume of the truss, I utilized the density of A500 Steel this being 7850 kg/m3, to find the mass of the system, and then multiplied the mass previously calculated by the acceleration due to gravity to get the total weight of the system.
+
 
 ## Decide
 _Which geometry did you select, and why? This is your first open design choice in the course — defend it._
