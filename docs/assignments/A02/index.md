@@ -15,14 +15,18 @@
 ## Documentation
 
 I was tasked with creating a truss system with the parameters as follows.
+
 <img width="317" height="215" alt="image" src="https://github.com/user-attachments/assets/64b394ad-5eb7-4831-9edc-1b44ba3330e7" />
 
 Force P = 20KN a = .4 m, b = .3 m
 
-###Design Geometry
+### Design Geometry
 
 <img width="2360" height="1099" alt="IMG_0035" src="https://github.com/user-attachments/assets/68c246ce-a098-4e90-9d75-5937b51b2f90" />
-This image depicts the truss geometry I selected with the assignment's constraints. My intention with this design was to make the truss as simple as possible while being able to carry the required ammount, and being as lightweight as possible to reduce the cost of this truss. This design utilizes a limited number of members and due to its simplistic design, calculations on internal and external forces are much more straightforward.
+This image depicts the truss geometry I selected with the assignment's constraints. My intention with this design was to make the truss as simple as possible while being able to carry the required ammount, and being as lightweight as possible to reduce the cost of this truss. This design utilizes a limited number of members, and due to its simplistic design, calculations on internal and external forces are much more straightforward.
+
+<img width="2360" height="1279" alt="IMG_0036" src="https://github.com/user-attachments/assets/af7d6af2-1137-481b-8ab9-29bda26c8f18" />
+This image shows my process of solving for external supports utilizing the free-body diagram (FBD) I created along with the geometry of this project. I applied static equilibrium to the truss by first taking a moment about pin B and getting the reaction at pin A. I then summed my forces in the y-direction, as I only had one unknown, and found the reaction force at B.
 
 
 ## Decide
