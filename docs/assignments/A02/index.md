@@ -38,7 +38,6 @@ This image shows my work done utilizing the method of joints to solve for the in
 <img width="2198" height="790" alt="IMG_0038" src="https://github.com/user-attachments/assets/52d1dbed-37c6-4126-8de6-3efd02e1e13a" />
 These calculations show how I arrived at the minimum required cross-sectional area for the truss members utilizing the largest internal force experienced in the truss. I utilized an average stress limit of 315MPA for A500 steel in this calculation. I related the normal stress equation to the allowable design stress, utilized 315MPA as my limit stress, and utilized the maximum force experienced by the truss being 16.02KN. After plugging in the values, I obtained a minimum cross-sectional area of 178mm2. 
 
-
 I then calculated the total weight of the truss, first calculating the total length of the truss to then find the total volume of the truss. Once I had arrived at the volume of the truss, I utilized the density of A500 steel, this being 7850 kg/m3, to find the mass of the system, and then multiplied the mass previously calculated by the acceleration due to gravity to get the total weight of the system.
 
 ## Pin Cross Sectional Area / Weight
