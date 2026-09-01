@@ -65,5 +65,6 @@ After creating the 3D model, SolidWorks concluded that my truss had a mass of ap
 
 Prior to this project, I had never used SolidWorks and got to learn and figure out how to use this program during this project. I also had to learn to get around various hurdles; for example, SolidWorks doesn't have A500 steel as a material, and I had to find the best alternative out of the limited options for calculating the mass and weight of the system. 
 
+## CAD File
 
-
+https://drive.google.com/file/d/1rqMY9t02BzgI5bUcPFsfc9NchVSSQXfD/view?usp=sharing
