@@ -49,10 +49,21 @@ These calculations show my process in finding the minimum cross-sectional area f
 
 I then next calulated the weight of the total pins. I first found the length of the members, then multiplied that by the cross-sectional area to find the volume of an individual pin. I then converted it into in3 to then multiplied that given volume by the provided densicy 0.278ln/in3 to find the mass of a pin. I then multiplied this value by 5, taking into account the total number of pins being used in this design, and finally multiplied this value by the acceleration due to gravity to get a total weight of 0.275N.
 
+## CAD Design of Truss
+
+<img width="1060" height="444" alt="Screenshot 2026-08-31 183138" src="https://github.com/user-attachments/assets/eef0dc36-8dd0-4957-bf8a-09ffe33b9b68" />
+
+This is the 3D model I created to simulate the truss that I calculated. In the dimensions of the members, I ensured they all maintained the same surface area and side lengths of 13.3mm. I ensured to account for the same angles that were utilized in my calculations and ensured the lengths of each member were accurate. By following these constraints and ensuring accurate dimensions, this 3D truss satisfies the constraints of safety factor, weight optimization, geometric constraints, and ensuring structural integrity. 
+
+## CAD Model Weight
+
+<img width="472" height="744" alt="Screenshot 2026-08-31 183109" src="https://github.com/user-attachments/assets/6e17996b-4465-441c-b1ad-3922b707c881" />
+
+After creating the 3D model, SolidWorks concluded that my truss had a mass of approximately 4.605 kg. When taking this value and multiplying by the acceleration due to gravity, you get a weight of 45.17N. In comparison to my hand-calculated value of 45.5 N, this is a very close value. This also makes sense that the SolidWorks version has less mass, as it is missing material where the pins will be inserted. 
+
+## Lessons Learned
+
+Prior to this project, I had never used SolidWorks and got to learn and figure out how to use this program during this project. I also had to learn to get around various hurdles; for example, SolidWorks doesn't have A500 steel as a material, and I had to find the best alternative out of the limited options for calculating the mass and weight of the system. 
 
 
-## Decide
-_Which geometry did you select, and why? This is your first open design choice in the course — defend it._
-
-## Communicate
 
