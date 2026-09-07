@@ -3,11 +3,11 @@
 ## Introduction
 
 Objectives:
-Use axial deflection modeling to design its dimensions
-Use parametric design to determine a bars length
-Introduce you to FEA (Finite Element Analysis)
-Introduce you to linking dimensions to appropriate parameters in CAD.
-Compare and contrast the different analysis
+1. Use axial deflection modeling to design its dimensions
+2. Use parametric design to determine a bars length
+3. Introduce you to FEA (Finite Element Analysis)
+4. Introduce you to linking dimensions to appropriate parameters in CAD.
+5. Compare and contrast the different analysis
 
 Description:
 You are to design a bar which has a circular cross section where the values of the criteria given for the material, maximum deflection, and load. Determine the bar’s minimum geometry (ie.. length, diameter, and weight) through parametric design while under direct tension. Then verify the geometry through finite element analysis.
@@ -32,7 +32,7 @@ After solving for the beam's cross-sectional area, I then chose some values I wo
 
 
 
-I then created the beam with the dimensions that I calculated, as shown in the images above, a diameter of 0.25 in, beam length of 11.04 in.
+Utilizing SolidWorks for my CAD Model, I then created the beam with dimensions I calculated, as shown in the image above, a diameter of 0.25 in, beam length of 11.04 in.
 
 ## Material / Global Equations
 
@@ -46,7 +46,7 @@ Previous to selecting a material for this project, I had utilized a value of 10,
 
 I then created the global equations for the beam to utilize SolidWorks to calculate the length of my beam, given the maximum deflection and diameter that I had chosen. When plugging in values, SolidWorks rounded the values; for example, the maximum deflection as well as the cross-sectional area. Though when plugging in all values into the deflection formula, I got the exact same value I calculated for length: 11.04 in.
 
-## Simulation / Safty Factor
+## Simulation / Safety Factor
 
 <img width="1573" height="482" alt="Screenshot 2026-09-07 150205" src="https://github.com/user-attachments/assets/0e73add0-a21e-448a-a595-f8be40d0f808" />
 
@@ -58,7 +58,12 @@ I then ran the test, depicted above is the deflection map in the FEA. The maximu
 
 <img width="1383" height="441" alt="Screenshot 2026-09-07 151011" src="https://github.com/user-attachments/assets/439ee221-e55f-46cb-9984-43cfcc56e249" />
 
-Following the simulation, I then inspected the von Mises Stress map, as depicted above. This simulation concluded that my beam experiences a maximum stress of 8,725 PSI. When comparing this value to the maximum strength of your standard aluminum alloy, this being 40 KSI, my value is significantly under thus, my beam is within the stress it should be experiencing. 
+Following the simulation, I then inspected the von Mises Stress map, as depicted above. This simulation concluded that my beam experiences a maximum stress of 8,725 PSI. When comparing this value to the maximum strength of your standard aluminum alloy, this being 40 KSI, my value is significantly under thus, my beam is within the stress it should be experiencing.
+
+<img width="1934" height="832" alt="IMG_0042" src="https://github.com/user-attachments/assets/17827e4a-f31a-4c59-be61-cd61a3137bf1" />
+
+Utilizing the value of 8,725 PSI gathered from my simulation, I then solved for the factor of safety of my beam utilizing the strength of aluminum value provided in the project description. As depicted above in my calculation, I got a FOS of 4.58.
+
 
 
 
