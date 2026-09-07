@@ -24,7 +24,7 @@ After solving for the beam's cross-sectional area, I then chose some values I wo
 
 ## CAD Modeling 
 
-<img width="590" height="565" alt="Screenshot 2026-09-07 143054" src="https://github.com/user-attachments/assets/8a39abac-bbd2-4c43-91b1-28e3d6192d25" /> <img width="1584" height="548" alt="Screenshot 2026-09-07 143252" src="https://github.com/user-attachments/assets/0b1ccfcb-6c21-4190-b778-eee64bc47914" />
+<img width="290" height="265" alt="Screenshot 2026-09-07 143054" src="https://github.com/user-attachments/assets/8a39abac-bbd2-4c43-91b1-28e3d6192d25" /> <img width="1584" height="548" alt="Screenshot 2026-09-07 143252" src="https://github.com/user-attachments/assets/0b1ccfcb-6c21-4190-b778-eee64bc47914" />
 
 I then created the beam with the dimensions that I calculated, as shown in the images above, a diameter of 0.25 in, beam length of 11.04 in.
 
