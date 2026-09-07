@@ -46,3 +46,22 @@ Previous to selecting a material for this project, I had utilized a value of 10,
 
 I then created the global equations for the beam to utilize SolidWorks to calculate the length of my beam, given the maximum deflection and diameter that I had chosen. When plugging in values, SolidWorks rounded the values; for example, the maximum deflection as well as the cross-sectional area. Though when plugging in all values into the deflection formula, I got the exact same value I calculated for length: 11.04 in.
 
+## Simulation / Safty Factor
+
+<img width="1573" height="482" alt="Screenshot 2026-09-07 150205" src="https://github.com/user-attachments/assets/0e73add0-a21e-448a-a595-f8be40d0f808" />
+
+Prior to starting the simulation, I fixed the left side of my beam to a wall and applied the force I chose being 400 LBF. Though SolidWorks simulation works in newtons, I converted this value and calculated 1779 Newtons.
+
+<img width="1378" height="522" alt="Screenshot 2026-09-07 151140" src="https://github.com/user-attachments/assets/fe8c2a07-fd76-4341-be91-4a85fcea660a" />
+
+I then ran the test, depicted above is the deflection map in the FEA. The maximum deflection this beam experiences during loading is 0.008984 in. The maximum deflection this beam could experience from our calculation was 0.009 in, the simulated deflection is less than the calculated value, so the beam is within the range of deflection.
+
+<img width="1383" height="441" alt="Screenshot 2026-09-07 151011" src="https://github.com/user-attachments/assets/439ee221-e55f-46cb-9984-43cfcc56e249" />
+
+Following the simulation, I then inspected the von Mises Stress map, as depicted above. This simulation concluded that my beam experiences a maximum stress of 8,725 PSI. When comparing this value to the maximum strength of your standard aluminum alloy, this being 40 KSI, my value is significantly under thus, my beam is within the stress it should be experiencing. 
+
+
+
+
+
+
