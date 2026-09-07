@@ -65,6 +65,15 @@ Following the simulation, I then inspected the von Mises Stress map, as depicted
 
 Utilizing the value of 8,725 PSI gathered from my simulation, I then solved for the factor of safety of my beam utilizing the strength of aluminum value provided in the project description. As depicted above in my calculation, I got a FOS of 4.58.
 
+## Design Reflection
+
+A. 
+My initial deflection utilized in my hand calculations was 0.009 in, whereas in the FEA simulation I got a value of 0.008984 in. When plugged into the percent difference formula, I got a value of 0.18%. These two values are extremely close to one another;  I think this is partly due to the fact that the design and calculations were very simple. I think if I were to have utilized the exact same value for the modulus of elasticity that the SolidWorks simulation used, this percent difference would be even lower. I think that overall the SolidWorks simulation is more accurate than my hand calculations, as it utilizes more precise numbers than my calculations. 
+
+B.
+When taking into account a hole placed on my object, I utilized the equation Stress Peak = Kt * Stress Norm. After looking up the stress concentration factor for a hole in tension, this being Kt = 2.17, I then plugged in the stress I got from the simulation and got a peak stress of 18,900 PSI. When plugged into the FOS equation, utilizing the strength of aluminum value given in the project of 40,000 PSI, I got an FOS of 2.12. This passes the test and allows for some 
+
+
 ## CAD FILE
 
 https://drive.google.com/file/d/14Te_msGYk0CEWIfUVdR_-ymeXZena7MR/view?usp=sharing
