@@ -10,6 +10,7 @@ Objectives:
 5. Compare and contrast the different analysis
 
 Description:
+
 You are to design a bar which has a circular cross section where the values of the criteria given for the material, maximum deflection, and load. Determine the bar’s minimum geometry (ie.. length, diameter, and weight) through parametric design while under direct tension. Then verify the geometry through finite element analysis.
 
 ## Design / Calcualtions
@@ -63,6 +64,11 @@ Following the simulation, I then inspected the von Mises Stress map, as depicted
 <img width="1934" height="832" alt="IMG_0042" src="https://github.com/user-attachments/assets/17827e4a-f31a-4c59-be61-cd61a3137bf1" />
 
 Utilizing the value of 8,725 PSI gathered from my simulation, I then solved for the factor of safety of my beam utilizing the strength of aluminum value provided in the project description. As depicted above in my calculation, I got a FOS of 4.58.
+
+## CAD FILE
+
+https://drive.google.com/file/d/14Te_msGYk0CEWIfUVdR_-ymeXZena7MR/view?usp=sharing
+
 
 
 
