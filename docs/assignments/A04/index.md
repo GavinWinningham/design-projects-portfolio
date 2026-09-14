@@ -67,5 +67,27 @@ I then created the bolt holes as well as the shaft hole for the front-facing edg
 
 <img width="964" height="770" alt="Screenshot 2026-09-14 165253" src="https://github.com/user-attachments/assets/f05b8647-e655-4692-ba57-8bf461690279" />
 
+Once again for the bolt holes on feature 2 they were not necessarily specified at their location. So I ensured that they were far enough away from the outer edges to ensure the material would sustain the forces, while maintaining their separation distance as well as their size of 3.4mm, as depicted in the image below.
+
+<img width="2015" height="926" alt="Screenshot 2026-09-14 171714" src="https://github.com/user-attachments/assets/2443eedb-1f10-4a3f-a0ea-06988727c149" />
+
+## Design Feature
+
+This assignment then wanted me to utilize a design feature that would minimize deflection in the object. I included supports holding the two features to one another to help resist the moment and other forces that this object may experience during loading.
+
+<img width="647" height="641" alt="Screenshot 2026-09-14 172556" src="https://github.com/user-attachments/assets/9ea9c91a-01f8-4b39-90a9-8f694d4ded5d" />
+
+# Finished Product
+
+<img width="703" height="942" alt="Screenshot 2026-09-14 175350" src="https://github.com/user-attachments/assets/edd055bd-4d38-434e-9594-fafad2744f5a" />
+
+## CAD FILE
+
+https://drive.google.com/file/d/1Eo0gTCwCbzcqhDuGfihEtWFVkEG3U8e3/view?usp=sharing
+
+
+
+
+
 
 
