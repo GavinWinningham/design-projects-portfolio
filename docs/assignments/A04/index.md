@@ -53,4 +53,19 @@ As depicted below is my isometric sketch, fully dimensioned with both chosen and
 
 <img width="2574" height="2168" alt="IMG_3919" src="https://github.com/user-attachments/assets/fb9e2d96-9bfb-45c4-9d64-9277069160f4" />
 
+## CAD Model / Parametric Modeling
+
+Prior to starting my 3D model I created global variables for the different features, specifying them to the calculated and chosen dimensions I had utilized in my previous calculations. The image depicted below is all of the values I utilized in this 3D drawing.
+
+<img width="796" height="325" alt="Screenshot 2026-09-14 175105" src="https://github.com/user-attachments/assets/3fa87142-d4ab-4f93-a66a-f330ccb92ec6" />
+
+Next created the overall dimensions of the motor mount, including both feature 1 and feature 2 as depicted in the image below. I utilized the values I had chosen as well as calculated thicknesses for both features 1 and 2, as depicted in the image.
+
+<img width="1438" height="1101" alt="Screenshot 2026-09-14 162211" src="https://github.com/user-attachments/assets/64097c52-2eba-4cfb-b38d-155f450756d8" />
+
+I then created the bolt holes as well as the shaft hole for the front-facing edge of the motor for the motor mount. I ensured that the center hole for the axle was 6mm, as well as the bolt holes were 3.4mm in diameter, as specified in the project description. Though I had some issues with placing the actual bolt holes for the connection of the motor, as the design specifications on the actual product website did not list the actual separation of the bolt holes, as well as its pattern. I had to estimate where they were located. After determining the dimensions of the outside as well as the inside edge of the brushless motor, I concluded it was about 9.45 millimeters from the center point of the driving shaft of the motor, as depicted in the dimensions and the image below.
+
+<img width="964" height="770" alt="Screenshot 2026-09-14 165253" src="https://github.com/user-attachments/assets/f05b8647-e655-4692-ba57-8bf461690279" />
+
+
 
