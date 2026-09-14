@@ -11,11 +11,17 @@ Figure 1: Shows the motor, the rigid wall, and the force received on the shaft o
 The physical description of the motor is as follows,
 
 Physical Specification
+
 Motor Size: Φ27.7 x 38mm
+
 Gearbox Size: Φ28 x 36.6mm
+
 Shaft Diameter: Φ6mm
+
 Shaft Length: 18mm
+
 D-cut Length: 12mm
+
 
 Within these calculations, I made a design choice to utilize an ABS material; the specifications for this material is as follows.
 
