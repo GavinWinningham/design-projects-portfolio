@@ -47,14 +47,10 @@ Very similar to my feature 1 calculation, I first started with my deflection for
 
 <img width="2522" height="1648" alt="IMG_3923" src="https://github.com/user-attachments/assets/2fdffe28-6294-4aca-8131-8e62ea269d4c" />
 
+## Isometric Sketch
 
+As depicted below is my isometric sketch, fully dimensioned with both chosen and calculated dimension values. 
 
+<img width="2574" height="2168" alt="IMG_3919" src="https://github.com/user-attachments/assets/fb9e2d96-9bfb-45c4-9d64-9277069160f4" />
 
-
-
-
-
-
-
-## Communicate
 
