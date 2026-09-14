@@ -8,7 +8,7 @@ Design a motor mount using the (Brushed 24V DC Gear Motor 3.6Kg.cm/46RPM w/ 99.5
 
 Figure 1: Shows the motor, the rigid wall, and the force received on the shaft of the motor, where P = 300 N
 
-#Physical Specification
+# Physical Specification
 
 Motor Size: Φ27.7 x 38mm
 
@@ -20,7 +20,7 @@ Shaft Length: 18mm
 
 D-cut Length: 12mm
 
-#Material Specification 
+# Material Specification 
 
 Within these calculations, I made a design choice to utilize an ABS material; the specifications for this material is as follows.
 
