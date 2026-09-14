@@ -37,6 +37,15 @@ I then needed to solve for the other dimensions of feature 1, utilizing the cons
 
 <img width="2261" height="2220" alt="IMG_3921" src="https://github.com/user-attachments/assets/d76feefa-9686-488e-ab17-f0ef3e6378d3" />
 
+## Feature 2
+
+Next for feature 2 I ended up choosing a dimension of 36mm for the width to stay consistent with feature 1. Next I had to geometrically calculate the length, I simply took the toal length of the motor, added it to the thickness calculated for feature 1, being 12.95mm to get a total length of feature 2 87.6mm. After creating a FBD and solving for the total length, I calculated the moment acting on feature 2, also taking into account the 18mm overhang by the motor shaft. getting a moment value of 31,680N/mm. I then listed all of my knowns and unknowns, all being mostly the same besides the length of the new feature.
+
+<img width="2305" height="2174" alt="IMG_3922" src="https://github.com/user-attachments/assets/6b0dad7b-6bf2-40b4-b66e-7b9885ef793d" />
+
+Very similar to my feature 1 calculation, I first started with my deflection formula, manipulating it to solve for inertia. Once I had solved for inertia, I then manipulated the formula to solve for thickness, getting a value of 42.26mm when taking deflection into account for this part. I next utilized the stress formula relating it to the safety factor given in the problem. I then manipulated inertia as well as the variable C to solve for the thickness. Once calculated, I got a value of 22.98mm. When comparing the two 42.26mm was the larger value that will take into account both limiting factors in this design.
+
+<img width="2522" height="1648" alt="IMG_3923" src="https://github.com/user-attachments/assets/2fdffe28-6294-4aca-8131-8e62ea269d4c" />
 
 
 
@@ -45,8 +54,6 @@ I then needed to solve for the other dimensions of feature 1, utilizing the cons
 
 
 
-
-## Decide
 
 
 ## Communicate
