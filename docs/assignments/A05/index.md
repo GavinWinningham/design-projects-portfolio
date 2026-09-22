@@ -30,8 +30,11 @@ Note: If the bracket is designed symmetrically a lot of work would be cut.
 
 <img width="323" height="238" alt="image" src="https://github.com/user-attachments/assets/d2cdd8a9-1710-4e6f-8410-4a12b540402f" />
 
+### Global Values (Stress/Stiffness)
+
 <img width="1157" height="974" alt="IMG_0001" src="https://github.com/user-attachments/assets/8e7d072a-b4e5-4546-ac76-8e21ae34e2f0" />
 
+<img width="977" height="862" alt="IMG_0007" src="https://github.com/user-attachments/assets/433830aa-db69-4c8e-937b-0adee92d8696" />
 
 ## Calculating Dimensions from Stress Analysis
 
@@ -65,8 +68,52 @@ Moving on to feature E, we assume a force of 650 acting on this part of the obje
 
 <img width="1064" height="909" alt="IMG_0006 (1)" src="https://github.com/user-attachments/assets/783e1716-7144-404a-8743-9e9d14736e2c" />
 
-## Decide
+## Calculating Dimensions from Stiffness Analysis
 
+### Feature A
 
-## Communicate
+For Figure A, there's a force of 650 pounds force with a length of 2.75 and the material values given in the general global values. We are trying to determine the diameter with these new limiting factors. First we start off with the deflection formula, noting that we know almost everything within the formula except for inertia. We then figure out what inertia is and plug in that value in. After doing some simple manipulation and trying to get the diameter by itself, we're able to then plug in all the values and get your diameter is equal to 1.164 inches.
+
+<img width="1479" height="1163" alt="IMG_0008 (1)" src="https://github.com/user-attachments/assets/cfc78d59-6a99-4b1d-a6a5-bf6f4ff12d67" />
+
+### Feature B
+
+Moving on to Figure B, we have the same dimensions as previously stated and shown below, assuming the same factors. This time we say the deflection value and then solve for the area utilizing deflection. Once we do this, we know area is just equal to the width times the thickness. Because of this, we're trying to solve for the thickness of this object, so we separate everything and solve for T and plug in our values and get a value, as all shown below.
+
+<img width="1965" height="1130" alt="IMG_0009" src="https://github.com/user-attachments/assets/c741ff70-0036-4aa9-afcb-a429866cfbc9" />
+
+### Feature C
+
+See we're utilizing the exact same dimensions as in stress as with the rest of these problems, trying to figure out the minimum thickness, utilizing the deflection formula for this and plugging in the value we have for inertia and breaking it up. We can then separate everything and solve for t and get a value, this being 0.481 inches.
+
+<img width="2028" height="1100" alt="IMG_0010" src="https://github.com/user-attachments/assets/fd8bab64-e367-48eb-af0a-a4ee88962cf2" />
+
+### Feature D
+
+For D, we ended up using a P-value of F over 2 due to the 2 being separated on either side, taking into account either part, utilizing the same dimensions, trying to find the minimum thickness. We relate this first to the deflection, then solve for the area. Saying that area is equal to the width times the thickness, we can then separate everything and solve for the thickness, plug in, and find our value.
+
+<img width="1800" height="927" alt="IMG_0011" src="https://github.com/user-attachments/assets/dcad38ac-7dad-4067-9cbb-b4d6c1487862" />
+
+### Feature E
+
+E, we have the exact same dimensions and force as shown in Figure E4 stress. We first start off with the deflection formula, noting that we do not know inertia. So we find out what inertia is, plug that into our deflection formula. Once that is done so, we know all values except for h. We can separate h and solve and end up getting a height of 0.606 inches.
+
+<img width="1592" height="1048" alt="IMG_0012" src="https://github.com/user-attachments/assets/79040e74-e0f4-4de6-9612-b34c3bd6e88c" />
+
+## Multiview Sketches
+
+### Stress
+
+<img width="1633" height="982" alt="IMG_0013" src="https://github.com/user-attachments/assets/ff0646b9-2a95-48e9-bb87-f0dd033ef855" />
+
+### Stiffness
+
+<img width="1649" height="945" alt="IMG_0014" src="https://github.com/user-attachments/assets/2ab78177-f358-47e9-8cc8-4e54d4f2fb1e" />
+
+## Lessons Learned
+
+1. For feature one, the difference between the stiffness and stress was slightly notable. For stress, I got 1.30 inches, where stiffness I got 1.164 inches. This slight difference of about 0.1 inches in diameter shows the importance of taking into account the deflection and strength of this material.
+2. One value that was carried into later on throughout the entire process was the force value of 650 lbf. Different features utilized this value differently, where Feature B utilized double the force, while D had used half of it. Prior to doing these calculations with the load, I analyzed them to make sure the symmetry of the load distribution applied consistently to these features, so it wouldn't cause an error downstream in my calculations.
+3. One assumption that I made was to utilize aluminum in this case, with a specific yield strength of 35,000 psi and a Young's modulus of 10 million psi. If a lower strength alloy or material were used, the allowable stress would significantly decrease, and the final dimensions would have to increase to account for this. Material selection is extremely important in this regard because, depending on the properties, it will adjust the dimensions of my product significantly, whether it's a weaker or stronger material. Also including the safety factor.
+
 
