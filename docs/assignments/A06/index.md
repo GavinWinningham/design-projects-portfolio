@@ -6,9 +6,9 @@ Below is a 3D schematic created in SolidWorks utilizing the dimensions calculate
 
 <img width="959" height="1132" alt="Screenshot 2026-09-23 220116" src="https://github.com/user-attachments/assets/be5cd27d-de0d-4ef1-96cf-e1c5497bff41" />
 
-<img width="1071" height="735" alt="Screenshot 2026-09-26 134027" src="https://github.com/user-attachments/assets/aa8e2de5-4f7a-41b0-8d7f-3dc548dbade7" />
+Depicted below is the calculations I got for feature A being utilized and the dimension and drawing with my specific length and diameter calculated previously and utilized in my global variables within SolidWorks.
 
-<img width="527" height="688" alt="Screenshot 2026-09-26 134056" src="https://github.com/user-attachments/assets/b8e25644-0cc8-4f7e-9603-81324f861bc1" />
+<img width="1071" height="735" alt="Screenshot 2026-09-26 134027" src="https://github.com/user-attachments/assets/aa8e2de5-4f7a-41b0-8d7f-3dc548dbade7" />
 
 <img width="612" height="600" alt="Screenshot 2026-09-26 134149" src="https://github.com/user-attachments/assets/97db1ecc-e401-4e02-99ed-dfb8f0c41a1b" />
 
