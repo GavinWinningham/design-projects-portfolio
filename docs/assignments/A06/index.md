@@ -14,7 +14,7 @@ Next is feature B, displaying the thickness I calculated as well as my assumed v
 
 <img width="612" height="600" alt="Screenshot 2026-09-26 134149" src="https://github.com/user-attachments/assets/97db1ecc-e401-4e02-99ed-dfb8f0c41a1b" />
 
-
+Next was my values I calculated for feature C, with a total length of 3.5 and a width of 1.25, all being assumed from my discretion, and utilized in my stress calculation, I got a thickness of 0.6, as depicted on the drawing, and shows the connection C has to the other parts within this design.
 
 <img width="982" height="661" alt="Screenshot 2026-09-26 134219" src="https://github.com/user-attachments/assets/241e7c29-53eb-4a88-bb95-ef22dfbb5215" />
 
