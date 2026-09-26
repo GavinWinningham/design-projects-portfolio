@@ -10,7 +10,11 @@ Depicted below is the calculations I got for feature A being utilized and the di
 
 <img width="1071" height="735" alt="Screenshot 2026-09-26 134027" src="https://github.com/user-attachments/assets/aa8e2de5-4f7a-41b0-8d7f-3dc548dbade7" />
 
+Next is feature B, displaying the thickness I calculated as well as my assumed value of 1.75 inches for feature B, displayed in SolidWorks and shows the conjoining between feature A and feature C in the image depicted below.
+
 <img width="612" height="600" alt="Screenshot 2026-09-26 134149" src="https://github.com/user-attachments/assets/97db1ecc-e401-4e02-99ed-dfb8f0c41a1b" />
+
+
 
 <img width="982" height="661" alt="Screenshot 2026-09-26 134219" src="https://github.com/user-attachments/assets/241e7c29-53eb-4a88-bb95-ef22dfbb5215" />
 
