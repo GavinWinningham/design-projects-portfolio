@@ -18,6 +18,8 @@ Next was my values I calculated for feature C, with a total length of 3.5 and a 
 
 <img width="982" height="661" alt="Screenshot 2026-09-26 134219" src="https://github.com/user-attachments/assets/241e7c29-53eb-4a88-bb95-ef22dfbb5215" />
 
+Next is feature D with the depicted calculated value being 0.06 inches. Next is the value of 1.23 inches as I designed it to start from the base of C to go all the way up until when it will mate at E. Because of this, I ended up having to account for the height of C plus the length of D, which was depicted in the initial drawing. Because of this, the correct value that should be technically displayed of the 1.23 is 0.625 for the width of feature D, taking into account the height of feature C, gives a total height of the 1.23 depicted in the image below.
+
 <img width="450" height="576" alt="Screenshot 2026-09-26 134313" src="https://github.com/user-attachments/assets/ca4102cf-4c16-4152-8fd6-0f93c70f975a" />
 
 <img width="1404" height="604" alt="Screenshot 2026-09-26 134343" src="https://github.com/user-attachments/assets/b899d509-4a09-4a23-88ca-bae8ca4314d8" />
