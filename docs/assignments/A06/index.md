@@ -22,6 +22,8 @@ Next is feature D with the depicted calculated value being 0.06 inches. Next is 
 
 <img width="450" height="576" alt="Screenshot 2026-09-26 134313" src="https://github.com/user-attachments/assets/ca4102cf-4c16-4152-8fd6-0f93c70f975a" />
 
+Next and finally is Part E. Within the image you can see my calculated value for the height of feature E being 0.8 inches, as well as my assumed values of the width of feature E being 1.75 inches, by its length, which is not depicted in the image, this being 1.25 inches. All of this being calculated from the stress equation.
+
 <img width="1404" height="604" alt="Screenshot 2026-09-26 134343" src="https://github.com/user-attachments/assets/b899d509-4a09-4a23-88ca-bae8ca4314d8" />
 
 <img width="398" height="164" alt="image" src="https://github.com/user-attachments/assets/c2cb8c78-1035-418a-aaf1-37e252013d75" />
