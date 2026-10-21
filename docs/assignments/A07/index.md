@@ -5,13 +5,13 @@
 
 ## Analyze
 
-| Column 1 | Column 2 | Column 3 | Column 4 |
+| | Design 1 | Design 2 | Design 3 |
 |---|---|---|---|
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
+|  Max Stress and Location |  |  |  |
+|  Max Deflection and Location |  |  |  |
+|  Mass |  |  |  |
+| Safety Factor |  |  |  |
+| Number of Elements |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
