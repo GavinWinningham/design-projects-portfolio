@@ -5,12 +5,16 @@
 
 ## Analyze
 
-```mermaid
-pie title Test Scores
-    "Quiz 1" : 82
-    "Quiz 2" : 91
-    "Quiz 3" : 88
-```
+| Column 1 | Column 2 | Column 3 | Column 4 |
+|---|---|---|---|
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
 
 
 
