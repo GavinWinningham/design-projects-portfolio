@@ -12,7 +12,7 @@
 |  Max Deflection and Location | 2.849e+01 mm | 3.039e+01 mm | 3.082e+01 mm |
 |  | <img width="1476" height="1014" alt="image" src="https://github.com/user-attachments/assets/3fd7f2a9-c1b5-4000-905b-567b4c04125f" /> | <img width="1510" height="1049" alt="image" src="https://github.com/user-attachments/assets/322a3654-bd45-4f79-bc0d-45812ef519a3" /> | <img width="1458" height="1068" alt="image" src="https://github.com/user-attachments/assets/c12e577a-92ae-477f-9e5b-ff45acae0f8d" /> |
 | Mass |  .99 lb | .99 lb | .99 lb |
-| Safety Factor |  |  |  |
+| Safety Factor | .2068 | 0.1633 | .1504 |
 | Number of Elements | 1267 | 8539 | 62317 |
 
 
