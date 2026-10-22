@@ -1,11 +1,19 @@
 # A7 – [Topic]
 
-## Objective
+## Set Up
 
+<img width="1173" height="946" alt="Screenshot 2026-10-20 213854" src="https://github.com/user-attachments/assets/b46a8e7a-93b6-468a-8aeb-5617b081f23f" />
+Prior to starting the assignment, I needed to set up the simulation. I first started by finding some part of the object to fix and resist the force that would be experienced on the cylinder at the bottom of this part. I fixed the inner top surface of the part to resist the force experienced to run this simulation.
 
-## Analyze
+<img width="778" height="953" alt="Screenshot 2026-10-20 215257" src="https://github.com/user-attachments/assets/1c1aa7f8-02a3-4115-a562-b0cea8bd41dc" />
+I next added the force to the simulation, ensuring it all headed in the correct direction and had a magnitude of 650 lbf, as utilized in my previous calculation for this part design.
 
-| | Design 1 (Coarse) | Design 2 (Mid) | Design 3 (Fine)|
+## Test (Original Design)
+
+After setting up my part to conduct the FEA, I then ran three different tests on different mesh densities. These being coarse, medium, and fine.  
+
+### Test 1
+| | (Coarse) |  (Mid) | (Fine)|
 |---|---|---|---|
 |  Max Stress and Location | 1.329e+09 N/m^2 | 1.684e+09 N/m^2 | 1.139e+08 N/m^2 |
 |  | <img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/27ee7738-120e-4436-8f27-d91d08948861" /> | <img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/0f2b0344-9b57-4809-a660-56af33b38882" /> | <img width="1524" height="1113" alt="Screenshot 2026-10-20 235835" src="https://github.com/user-attachments/assets/73a78bd5-6ff3-468e-b44b-553cafda08bc" /> |
