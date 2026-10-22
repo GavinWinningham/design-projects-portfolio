@@ -96,4 +96,9 @@ After running the different tests after these design modifications, the values n
 
 This assignment taught me how to utilize SolidWorks functions to conduct an FEA and be able to apply it to a design and make improvements to the design utilizing the data collected from these tests. I learned how the number of meshes affects the overall accuracy of these calculations and the difference between the finer and coarser simulations. This assignment was extremely useful and informative, as I learned a lot about how to apply the different things I have been calculating over the past weeks and how to conduct these tests accurately.
 
+## CAD FILE
+
+https://drive.google.com/file/d/1bws2UspjIYuACCmTtm-HtcLVbqdKRe-N/view?usp=sharing
+
+
 
