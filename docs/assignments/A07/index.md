@@ -27,13 +27,13 @@ Consern
 
 | | Design 1 (Coarse) | Design 2 (Mid) | Design 3 (Fine)|
 |---|---|---|---|
-|  Max Stress and Location | 1.329e+09 N/m^2 | 7.497e+07 N/m^2 | 1.139e+08 N/m^2 |
-|  | <img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/27ee7738-120e-4436-8f27-d91d08948861" /> | <img width="1653" height="990" alt="image" src="https://github.com/user-attachments/assets/f7310f8c-86e3-4910-86cd-6587592d5f9a" /> | <img width="1798" height="1060" alt="image" src="https://github.com/user-attachments/assets/e9a0309a-eeaf-4288-8b87-d41b97ef9e66" /> |
-|  Max Deflection and Location | 2.849e+01 mm | 7.124e-02 mm | 7.222e-02 mm |
-|  | <img width="1476" height="1014" alt="image" src="https://github.com/user-attachments/assets/3fd7f2a9-c1b5-4000-905b-567b4c04125f" /> | <img width="1526" height="943" alt="image" src="https://github.com/user-attachments/assets/0e19546b-84d8-43a9-891b-9dd79f506d7b" /> | <img width="1556" height="968" alt="image" src="https://github.com/user-attachments/assets/c63ae2b7-4e4f-4fa2-87b3-409731a99aad" /> |
+|  Max Stress and Location | 4.751+07 N/m^2 | 7.497e+07 N/m^2 | 1.139e+08 N/m^2 |
+|  | <img width="1687" height="978" alt="image" src="https://github.com/user-attachments/assets/5bebb24b-52a4-4f1e-8697-2219090f8bd7" /> | <img width="1653" height="990" alt="image" src="https://github.com/user-attachments/assets/f7310f8c-86e3-4910-86cd-6587592d5f9a" /> | <img width="1798" height="1060" alt="image" src="https://github.com/user-attachments/assets/e9a0309a-eeaf-4288-8b87-d41b97ef9e66" /> |
+|  Max Deflection and Location | 6.546e-02 mm | 7.124e-02 mm | 7.222e-02 mm |
+|  | <img width="1682" height="965" alt="image" src="https://github.com/user-attachments/assets/0eff5c6d-4aa2-4b71-9d09-daf07a24932b" /> | <img width="1526" height="943" alt="image" src="https://github.com/user-attachments/assets/0e19546b-84d8-43a9-891b-9dd79f506d7b" /> | <img width="1556" height="968" alt="image" src="https://github.com/user-attachments/assets/c63ae2b7-4e4f-4fa2-87b3-409731a99aad" /> |
 | Mass |  .81 lb | .81 lb | .81 lb |
-| Safety Factor | .2068 | 3.668 | 2.414 |
-| Number of Elements | 1267 | 8877 | 63605 |
+| Safety Factor | 5.789 | 3.668 | 2.414 |
+| Number of Elements | 1409 | 8877 | 63605 |
 
 ## Communicate
 
