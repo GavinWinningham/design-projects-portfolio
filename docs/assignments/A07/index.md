@@ -23,11 +23,9 @@ Next, I added the force to the simulation, ensuring it headed in the correct dir
 
 <img width="778" height="953" alt="Screenshot 2026-10-20 215257" src="https://github.com/user-attachments/assets/1c1aa7f8-02a3-4115-a562-b0cea8bd41dc" />
 
-## Test (Original Design)
+## Test (Original Design) 
 
-After setting up my part to conduct the FEA, I then ran three different tests on different mesh densities. These being coarse, medium, and fine. After fully conducting this test and seeing if their values fell within 7% of one another, that was not the result; I then proceeded to the next step to ensure the values converged: design optimization. 
-
-### Test 1
+### Test 1 data
 | | (Coarse) |  (Mid) | (Fine)|
 |---|---|---|---|
 |  Max Stress and Location | 1.329e+09 N/m^2 | 1.684e+09 N/m^2 | 1.139e+08 N/m^2 |
@@ -38,7 +36,11 @@ After setting up my part to conduct the FEA, I then ran three different tests on
 | Safety Factor | .2068 | 0.1633 | .1504 |
 | Number of Elements | 1267 | 8539 | 62317 |
 
-## Test (Support)
+### Test 1 Conclusion 
+
+After setting up my part to conduct the FEA, I then ran three different tests on different mesh densities. These being coarse, medium, and fine. After fully conducting this test and seeing if their values fell within 7% of one another, that was not the result; I then proceeded to the next step to ensure the values converged: design optimization.
+
+## Test (Added Support)
 
 After conducting the first experiment, I noted a significant amount of stress located at the support for the strap connection. As well as a significant amount of deformation due to the forces acting on this very slim part.
 
@@ -48,7 +50,7 @@ I decided to add extra support to the other side of the strap support to assist 
 
 <img width="712" height="893" alt="image" src="https://github.com/user-attachments/assets/e4e36687-6981-4b50-b050-d6872afd2ca0" />
 
-### Design alteration
+### Test 2 data
 
 | | Design 1 (Coarse) | Design 2 (Mid) | Design 3 (Fine)|
 |---|---|---|---|
@@ -59,6 +61,10 @@ I decided to add extra support to the other side of the strap support to assist 
 | Mass |  .81 lb | .81 lb | .81 lb |
 | Safety Factor | 5.789 | 3.668 | 2.414 |
 | Number of Elements | 1409 | 8877 | 63605 |
+
+### Test 2 Conclusion
+
+
 
 ## Communicate
 
