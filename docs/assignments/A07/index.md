@@ -68,11 +68,9 @@ After running the FEA on coarse, mid, and fine, the total test didn't all conver
 
 ## Test (Widened Support / Fillet)
 
+After running the previous tests on the altered design, I noticed very condensed and high stress values in the corners of the new and old supports added to the design. Due to corners being a specifically weak point for stresses in designs, I added fillets to help alleviate some of that stress. I also noticed during the test the large amount of deflection the top support was receiving. Due to this, I added material on either side to increase the area to reduce the amount of deflection the object experiences at that specific location. Below are depictions of my findings and concerns with the previous design, as well as the changes that were made to the design.
+
 <img width="424" height="433" alt="image" src="https://github.com/user-attachments/assets/fbe8a357-9dcb-447d-abcc-3d95523992bb" />
-
-Consern
-
-Change 
 
 <img width="1128" height="1000" alt="image" src="https://github.com/user-attachments/assets/c2f806e9-fad5-453d-982d-9b30d61e7791" />
 
