@@ -27,7 +27,7 @@ Consern
 
 | | Design 1 (Coarse) | Design 2 (Mid) | Design 3 (Fine)|
 |---|---|---|---|
-|  Max Stress and Location | 4.751+07 N/m^2 | 7.497e+07 N/m^2 | 1.139e+08 N/m^2 |
+|  Max Stress and Location | 4.751e+07 N/m^2 | 7.497e+07 N/m^2 | 1.139e+08 N/m^2 |
 |  | <img width="1687" height="978" alt="image" src="https://github.com/user-attachments/assets/5bebb24b-52a4-4f1e-8697-2219090f8bd7" /> | <img width="1653" height="990" alt="image" src="https://github.com/user-attachments/assets/f7310f8c-86e3-4910-86cd-6587592d5f9a" /> | <img width="1798" height="1060" alt="image" src="https://github.com/user-attachments/assets/e9a0309a-eeaf-4288-8b87-d41b97ef9e66" /> |
 |  Max Deflection and Location | 6.546e-02 mm | 7.124e-02 mm | 7.222e-02 mm |
 |  | <img width="1682" height="965" alt="image" src="https://github.com/user-attachments/assets/0eff5c6d-4aa2-4b71-9d09-daf07a24932b" /> | <img width="1526" height="943" alt="image" src="https://github.com/user-attachments/assets/0e19546b-84d8-43a9-891b-9dd79f506d7b" /> | <img width="1556" height="968" alt="image" src="https://github.com/user-attachments/assets/c63ae2b7-4e4f-4fa2-87b3-409731a99aad" /> |
@@ -51,13 +51,13 @@ Change
 
 | | Design 1 (Coarse) | Design 2 (Mid) | Design 3 (Fine)|
 |---|---|---|---|
-|  Max Stress and Location | 4.751+07 N/m^2 | 1.203e+08 N/m^2 | 1.259e+08 N/m^2 |
-|  | <img width="1687" height="978" alt="image" src="https://github.com/user-attachments/assets/5bebb24b-52a4-4f1e-8697-2219090f8bd7" /> | <img width="869" height="470" alt="image" src="https://github.com/user-attachments/assets/a920c0b9-f8fd-49b0-881c-a5631ec5db68" /> | <img width="1797" height="1018" alt="image" src="https://github.com/user-attachments/assets/992d4167-e900-4ebf-b2bd-4ec343db9f1f" /> |
-|  Max Deflection and Location | 6.546e-02 mm | 5.557e-02 mm | 5.664e-02 mm |
-|  | <img width="1682" height="965" alt="image" src="https://github.com/user-attachments/assets/0eff5c6d-4aa2-4b71-9d09-daf07a24932b" /> | <img width="832" height="477" alt="image" src="https://github.com/user-attachments/assets/164fd540-15f7-4b3c-92f2-e390b0af354f" /> | <img width="1782" height="996" alt="image" src="https://github.com/user-attachments/assets/6822b8ba-4f6f-48f7-9dd2-55d42431810d" /> |
+|  Max Stress and Location | 9.739e+07 N/m^2 | 1.203e+08 N/m^2 | 1.259e+08 N/m^2 |
+|  | <img width="871" height="470" alt="image" src="https://github.com/user-attachments/assets/98ab6bfc-1fac-405e-b1f7-b2464bbec71d" /> | <img width="869" height="470" alt="image" src="https://github.com/user-attachments/assets/a920c0b9-f8fd-49b0-881c-a5631ec5db68" /> | <img width="1797" height="1018" alt="image" src="https://github.com/user-attachments/assets/992d4167-e900-4ebf-b2bd-4ec343db9f1f" /> |
+|  Max Deflection and Location | 5.336e-02 mm | 5.557e-02 mm | 5.664e-02 mm |
+|  | <img width="827" height="477" alt="image" src="https://github.com/user-attachments/assets/02834a28-b654-403b-b307-1a4ed2926207" /> | <img width="832" height="477" alt="image" src="https://github.com/user-attachments/assets/164fd540-15f7-4b3c-92f2-e390b0af354f" /> | <img width="1782" height="996" alt="image" src="https://github.com/user-attachments/assets/6822b8ba-4f6f-48f7-9dd2-55d42431810d" /> |
 | Mass |  .89 lb | .89 lb | .89 lb |
-| Safety Factor | 5.789 | 2.286 | 2.185 |
-| Number of Elements | 1409 | 10761 | 66579 |
+| Safety Factor | 2.824 | 2.286 | 2.185 |
+| Number of Elements | 2332 | 10761 | 66579 |
 
 
 
