@@ -1,14 +1,27 @@
 # A7 – [Topic]
 
-## Set Up
+## Instructions / Objectives
 
-<img width="1173" height="946" alt="Screenshot 2026-10-20 213854" src="https://github.com/user-attachments/assets/b46a8e7a-93b6-468a-8aeb-5617b081f23f" />
+1. Use Finite Element Analysis (FEA) to improve the bracket design from previous assignments.
+2. Ensure high stiffness, strength, and lightweight optimization through iterative design.
+3. Conduct multiple FEA simulations, refining geometry based on results.
+4. Perform static stress analysis, including constraints, loading, and meshing selection.
+5. Interpret data by identifying max stress, displacement, and safety factors.
+6. Optimize the design by modifying geometry to enhance performance.
+7. Document the entire process with images, calculations, and insights.
+8. Reflect on key engineering lessons learned and time spent.
+
+<img width="775" height="577" alt="image" src="https://github.com/user-attachments/assets/f2f9c5ee-a558-4780-a259-c119dfb86856" />
+
+## Set Up
 
 Prior to starting the assignment, I needed to set up the simulation. I first started by finding some part of the object to fix and resist the force that would be experienced on the cylinder at the bottom of this part. I fixed the inner top surface of the part to resist the force experienced to run this simulation.
 
-<img width="778" height="953" alt="Screenshot 2026-10-20 215257" src="https://github.com/user-attachments/assets/1c1aa7f8-02a3-4115-a562-b0cea8bd41dc" />
+<img width="1173" height="946" alt="Screenshot 2026-10-20 213854" src="https://github.com/user-attachments/assets/b46a8e7a-93b6-468a-8aeb-5617b081f23f" />
 
 I next added the force to the simulation, ensuring it all headed in the correct direction and had a magnitude of 650 lbf, as utilized in my previous calculation for this part design.
+
+<img width="778" height="953" alt="Screenshot 2026-10-20 215257" src="https://github.com/user-attachments/assets/1c1aa7f8-02a3-4115-a562-b0cea8bd41dc" />
 
 ## Test (Original Design)
 
