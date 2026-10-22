@@ -25,7 +25,7 @@ Next, I added the force to the simulation, ensuring it headed in the correct dir
 
 ## Test (Original Design) 
 
-### Test 1 data
+### Test 1 Data
 | | (Coarse) |  (Mid) | (Fine)|
 |---|---|---|---|
 |  Max Stress and Location | 1.329e+09 N/m^2 | 1.684e+09 N/m^2 | 1.139e+08 N/m^2 |
@@ -50,7 +50,7 @@ I decided to add extra support to the other side of the strap support to assist 
 
 <img width="712" height="893" alt="image" src="https://github.com/user-attachments/assets/e4e36687-6981-4b50-b050-d6872afd2ca0" />
 
-### Test 2 data
+### Test 2 Data
 
 | | Design 1 (Coarse) | Design 2 (Mid) | Design 3 (Fine)|
 |---|---|---|---|
@@ -76,7 +76,7 @@ After running the previous tests on the altered design, I noticed very condensed
 
 <img width="667" height="811" alt="image" src="https://github.com/user-attachments/assets/6c62a4a8-7654-4895-87b3-1a5671e68651" />
 
-## Chart
+### Test 3 Data
 
 | | Design 1 (Coarse) | Design 2 (Mid) | Design 3 (Fine)|
 |---|---|---|---|
@@ -88,5 +88,12 @@ After running the previous tests on the altered design, I noticed very condensed
 | Safety Factor | 2.824 | 2.286 | 2.185 |
 | Number of Elements | 2332 | 10761 | 66579 |
 
+### Test 3 Conclusion 
+
+After running the different tests after these design modifications, the values now converge within 7% of each other. For the max stress between mid and fine, we have a 4.45% difference; for max deflection, we have a 1.89% difference, and finally, for FOS, we have a 4.62% difference. Due to all these values converging within 7% of each other, the design now successfully meets the requirements.
+
+## Conclusion 
+
+This assignment taught me how to utilize SolidWorks functions to conduct an FEA and be able to apply it to a design and make improvements to the design utilizing the data collected from these tests. I learned how the number of meshes affects the overall accuracy of these calculations and the difference between the finer and coarser simulations. This assignment was extremely useful and informative, as I learned a lot about how to apply the different things I have been calculating over the past weeks and how to conduct these tests accurately.
 
 
