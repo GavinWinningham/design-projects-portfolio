@@ -15,17 +15,17 @@
 
 ## Set Up
 
-Prior to starting the assignment, I needed to set up the simulation. I first started by finding some part of the object to fix and resist the force that would be experienced on the cylinder at the bottom of this part. I fixed the inner top surface of the part to resist the force experienced to run this simulation.
+Prior to starting the assignment, I needed to set up the simulation to run a FEA. I first started by finding some part of the object to fix and resist the force that would be experienced on the cylinder at the bottom of this part. I fixed the inner top surface of the part to resist the force experienced during the simulation.
 
 <img width="1173" height="946" alt="Screenshot 2026-10-20 213854" src="https://github.com/user-attachments/assets/b46a8e7a-93b6-468a-8aeb-5617b081f23f" />
 
-I next added the force to the simulation, ensuring it all headed in the correct direction and had a magnitude of 650 lbf, as utilized in my previous calculation for this part design.
+Next, I added the force to the simulation, ensuring it headed in the correct direction and had a magnitude of 650 lbf, as used in my previous calculations for this part's design in the previous assignments.
 
 <img width="778" height="953" alt="Screenshot 2026-10-20 215257" src="https://github.com/user-attachments/assets/1c1aa7f8-02a3-4115-a562-b0cea8bd41dc" />
 
 ## Test (Original Design)
 
-After setting up my part to conduct the FEA, I then ran three different tests on different mesh densities. These being coarse, medium, and fine. After fully condusting this test and seeing if their values fell witin 7% of one another that was not the result so I then proceeded to the next step, design optimation. 
+After setting up my part to conduct the FEA, I then ran three different tests on different mesh densities. These being coarse, medium, and fine. After fully conducting this test and seeing if their values fell within 7% of one another, that was not the result; I then proceeded to the next step to ensure the values converged: design optimization. 
 
 ### Test 1
 | | (Coarse) |  (Mid) | (Fine)|
