@@ -38,11 +38,13 @@ After setting up my part to conduct the FEA, I then ran three different tests on
 | Safety Factor | .2068 | 0.1633 | .1504 |
 | Number of Elements | 1267 | 8539 | 62317 |
 
-## Decide
+## Test (Support)
+
+After conducting the first experiment, I noted a significant amount of stress located at the support for the strap connection. As well as a significant amount of deformation due to the forces acting on this very slim part.
 
 <img width="548" height="572" alt="image" src="https://github.com/user-attachments/assets/65bb9fbf-51f8-4516-9d76-5401720711cd" />
 
-Consern 
+I decided to add extra support to the other side of the strap support to assist with the significant amount of stress and strain the part was experiencing. To also accommodate the added weight and to ensure the object was as light as possible, I then removed the excess strap support that extended past the new addition to the design, as follows below.
 
 <img width="712" height="893" alt="image" src="https://github.com/user-attachments/assets/e4e36687-6981-4b50-b050-d6872afd2ca0" />
 
