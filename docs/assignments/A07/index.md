@@ -41,6 +41,24 @@ Consern
 
 Consern
 
+Change 
+
+<img width="1128" height="1000" alt="image" src="https://github.com/user-attachments/assets/c2f806e9-fad5-453d-982d-9b30d61e7791" />
+
+<img width="667" height="811" alt="image" src="https://github.com/user-attachments/assets/6c62a4a8-7654-4895-87b3-1a5671e68651" />
+
+## Chart
+
+| | Design 1 (Coarse) | Design 2 (Mid) | Design 3 (Fine)|
+|---|---|---|---|
+|  Max Stress and Location | 4.751+07 N/m^2 | 7.497e+07 N/m^2 | 1.259e+08 N/m^2 |
+|  | <img width="1687" height="978" alt="image" src="https://github.com/user-attachments/assets/5bebb24b-52a4-4f1e-8697-2219090f8bd7" /> | <img width="1653" height="990" alt="image" src="https://github.com/user-attachments/assets/f7310f8c-86e3-4910-86cd-6587592d5f9a" /> | <img width="1797" height="1018" alt="image" src="https://github.com/user-attachments/assets/992d4167-e900-4ebf-b2bd-4ec343db9f1f" /> |
+|  Max Deflection and Location | 6.546e-02 mm | 7.124e-02 mm | 7.222e-02 mm |
+|  | <img width="1682" height="965" alt="image" src="https://github.com/user-attachments/assets/0eff5c6d-4aa2-4b71-9d09-daf07a24932b" /> | <img width="1526" height="943" alt="image" src="https://github.com/user-attachments/assets/0e19546b-84d8-43a9-891b-9dd79f506d7b" /> | <img width="1556" height="968" alt="image" src="https://github.com/user-attachments/assets/c63ae2b7-4e4f-4fa2-87b3-409731a99aad" /> |
+| Mass |  .81 lb | .81 lb | .81 lb |
+| Safety Factor | 5.789 | 3.668 | 2.414 |
+| Number of Elements | 1409 | 8877 | 63605 |
+
 
 
 
