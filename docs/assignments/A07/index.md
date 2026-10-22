@@ -64,9 +64,9 @@ I decided to add extra support to the other side of the strap support to assist 
 
 ### Test 2 Conclusion
 
+After running the FEA on coarse, mid, and fine, the total test didn't all converge to 7%, though the max deflections did. In this case, the mid-to-fine deflection percentage was 1.36, which is well within our goal of 7%. Though the other components are not within this range, thus further design optimization is needed for further convergence.
 
-
-## Communicate
+## Test (Widened Support / Fillet)
 
 <img width="424" height="433" alt="image" src="https://github.com/user-attachments/assets/fbe8a357-9dcb-447d-abcc-3d95523992bb" />
 
