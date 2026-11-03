@@ -101,7 +101,11 @@ Below is a full depiction of my full step-by-step process in my CADing of this p
 
 <img width="896" height="888" alt="Screenshot 2026-11-02 225943" src="https://github.com/user-attachments/assets/e3f5e480-5303-44da-b1ea-27a127d88cea" />
 
-## CAD FILE
+## CAD FILE / Lesson Learned
 
 https://drive.google.com/file/d/10rSOy8nVUzPw2bM5HlEmkRjz3UMLaR3S/view?usp=sharing
+
+Prior to this assignment, I had no experience utilizing the assembly function within SolidWorks. Following this assignment, I feel confident enough to utilize this in more complicated assignments going forward, as well as I got to utilize assembly functions that I normally have not used in other 3D modeling software, specifically utilizing assembly functions with gears. I had not previously used that much in my previous classes, so I got to get more experience in that regard.
+
+
 
