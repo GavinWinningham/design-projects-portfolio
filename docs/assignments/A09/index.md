@@ -33,7 +33,7 @@ Next, I needed to calculate the circumference. Utilizing everything we just calc
 
 ## Shaft Design
 
-I first started with the knowns, specifically what was given in the project as well as the things I previously calculated. I ended up choosing the stated material, 1600 hardened steel, specifically with a yield strength of 70300 psi, in this case also requiring a safety factor of 3, depicted as well as my free-body diagram of the shaft and forces acting on it.
+I first started with the knowns, specifically what was given in the project as well as the things I previously calculated. I ended up choosing the stated material, 1060 hardened steel, specifically with a yield strength of 70300 psi, in this case also requiring a safety factor of 3, depicted as well as my free-body diagram of the shaft and forces acting on it.
 
 <img width="712" height="489" alt="IMG_0030" src="https://github.com/user-attachments/assets/d9a894d5-2168-4381-b312-c3020bd2a413" />
 
