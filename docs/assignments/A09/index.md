@@ -43,5 +43,19 @@ I then needed to try to find the diameter of the shaft. I first noted that I cou
 
 ## Bearing Design
 
+I first started with what was given: my previous calculations for F1 and F2, the inner diameter for the bearing, my RPMs, as well as the chosen length. I first started off with finding the pressure this bearing would sustain, simply utilizing the equation force over area. Utilizing the previous calculations as well as the new assumed value, I ended up taking the inner diameter being 0.1875 times the new length and setting that equal to the area. I then took this and took 10 divided by that area and solved for the pressure. Going further, the shaft velocity was then calculated utilizing the speed of 1,500 RPM. After being plugged into the equation, I ended up getting 73.63 feet per minute. Following this, I then calculated the pressure velocity rating, simply multiplying the two together. I ended up getting a value of 3,927 psi feet per minute. I then looked at the table within our McHenry's Handbook and noted that the main limiting factor for the material was the PV value. I had initially looked at some values, specifically the acetal bearing material, and noted it was too small. I then moved up one more to graphite, in parentheses dry. This material fits all of the calculated values I had just calculated and will be the material that this bearing is now made out of.
+
+<img width="1855" height="524" alt="IMG_0032" src="https://github.com/user-attachments/assets/9227f3e7-8c6d-406a-ba60-ed3e2dd3e652" />
+
+### System Frame
+
+<img width="1476" height="958" alt="IMG_0033" src="https://github.com/user-attachments/assets/418a1960-9adf-4208-bfe5-4b5554e0e4b5" />
+
+## Reflection
+
+During the creation of this assignment, I learned quite a lot on the calculation for forces within pulley assemblies. I had previously never done calculations within these types of assemblies, so getting to get some hands-on experience in regards to it and relating it to real-life materials and products was very helpful to visualize the process as well as learn it.
+
+
+
 
 
