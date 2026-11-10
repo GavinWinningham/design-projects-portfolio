@@ -31,12 +31,17 @@ Next, I needed to calculate the circumference. Utilizing everything we just calc
 
 <img width="770" height="374" alt="IMG_0029" src="https://github.com/user-attachments/assets/dff9921d-1084-4b35-ba45-a6a2324f10e2" />
 
+## Shaft Design
+
+I first started with the knowns, specifically what was given in the project as well as the things I previously calculated. I ended up choosing the stated material, 1600 hardened steel, specifically with a yield strength of 70300 psi, in this case also requiring a safety factor of 3, depicted as well as my free-body diagram of the shaft and forces acting on it.
+
+<img width="712" height="489" alt="IMG_0030" src="https://github.com/user-attachments/assets/d9a894d5-2168-4381-b312-c3020bd2a413" />
+
+I then needed to try to find the diameter of the shaft. I first noted that I could utilize the circular shaft torsion equation. After manipulating, I ended up getting D is equal to the cube root of 16M times the safety factor, all divided by pi times the yield strength. In this case, I needed to figure out the transmitted torque onto the actual shaft itself. I first started with the power it was experiencing, utilizing the equation P equals R in parentheses F1 minus F2 times the frequency. After doing so, I ended up getting a power of 2,161.1. After taking the power and dividing it by the angular velocity, I ended up getting 13.578 inches per lbf. After plugging these values calculated into the equation, I ended up getting a diameter of 0.144 inches for the shaft.
+
+<img width="1493" height="468" alt="IMG_0031" src="https://github.com/user-attachments/assets/1e204b21-a996-446a-b325-514cae0df153" />
+
+## Bearing Design
 
 
-
-
-## Decide
-
-
-## Communicate
 
