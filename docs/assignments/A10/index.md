@@ -115,7 +115,8 @@ I first started the 3D modeling process by creating the crosshead. I started off
 I next started with the actual assembly of the entire project. I started off initially taking the crosshead and the lead screws and mating them to one another, ensuring they pass through efficiently, as well as mating the tops of the lead screws to one another so that they are aligned. After doing so, I then started to add the frame onto the edges of this project, starting with two foot-and-a-half-long T-rail frames, exactly the same length as the lead screws, as depicted below; this is the continuation of that assembly.
 
 
-![tframe](tframe.png)
+<img width="1293" height="1056" alt="Screenshot 2026-11-16 212905" src="https://github.com/user-attachments/assets/0b44619a-b167-48f9-9ca9-990ee5fdc987" />
+
 
 
 Now finally, the full assembly, including all parts of the body. I ended up trimming the frame of the original down to fit the length properly, though after doing so there was some slight overhang, though it should still function properly. But it includes everything that was accounted for in our calculations, and everything is depicted below.
