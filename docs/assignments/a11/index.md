@@ -40,19 +40,28 @@ To find suitable connectors, I used 1018 steel again to keep consistency.  Using
 I first started by creating an assembly utilizing the frame of choice as well as the design motor mount, utilizing previous calculations by my partners. I then assembled the structure depicted below and conducted a simulation, fixing the ends of the assembly and the motor mounts and applying our 2,000 newton force at the motor mount.
 
 
-![Screenshot 2026-11-23 210050.png](Screenshot 2026-11-23 210050.png)
+<img width="1344" height="747" alt="Screenshot 2026-11-23 210050" src="https://github.com/user-attachments/assets/afd1d88e-9f14-43b4-95da-e383e5f50ae3" />
+
 I first started off with a coarse mesh for this analysis. After doing so, with the Von Mises stress analysis, got a peak stress of 8.757 times 10 to the seventh newtons per meter squared. After looking at the actual deflection itself and the stress concentrations, there didn't seem to be nearly as much, except for at the individual corners of the motor mounts. Moving on to the deflection, there was a significant deflection near the center of the assembly, specifically within the frame itself, with a max deflection of 1.57 times 10 to the 2 millimeters. Then utilizing the factor of safety, for this specific part, I ended up getting from the simulation a factor of safety of 4.015.
 
-![Screenshot 2026-11-23 211631.png](Screenshot 2026-11-23 211631.png)
-![Screenshot 2026-11-23 211702.png](Screenshot 2026-11-23 211702.png)
-![Screenshot 2026-11-23 212201.png](Screenshot 2026-11-23 212201.png)
+<img width="1748" height="780" alt="Screenshot 2026-11-23 211631" src="https://github.com/user-attachments/assets/3709453e-6e43-4ed9-a253-9083f79ae990" />
+<img width="1798" height="806" alt="Screenshot 2026-11-23 211702" src="https://github.com/user-attachments/assets/4479b3c0-1603-4c30-bfb1-12595ede1941" />
+<img width="1897" height="884" alt="Screenshot 2026-11-23 212201" src="https://github.com/user-attachments/assets/ae20c670-29fc-424b-832b-46b92f8e964b" />
+
 Next, I then moved on to the medium mesh for this design, starting off with the von Mises stress. I ended up getting a peak stress concentration of 7.777 times 10 to the seventh newtons per meter squared, specifically at the same concentrations of corners within the actual assembly itself. Next was the peak deflection that this part experienced, noting similar deflection areas, specifically within the center, with a max deflection of 1.661 times 10 to the second millimeters. Moving on to the factor of safety experienced by the simulation, it ended up getting a value of 4.521.
 
 
-![Screenshot 2026-11-23 213003.png](Screenshot 2026-11-23 213003.png)
-![Screenshot 2026-11-23 213030.png](Screenshot 2026-11-23 213030.png)
-![Screenshot 2026-11-23 213128.png](Screenshot 2026-11-23 213128.png)
-Going further with the analysis of this assembly, my computer unfortunately had some issues in regards to going to the finest mesh quality. There were too many items for my computer to handle and I tried multiple ways of seeing how I could manipulate it to account for this. Unfortunately, I was not able to go to the finest mesh quality for this assignment.
+<img width="2141" height="744" alt="Screenshot 2026-11-23 213030" src="https://github.com/user-attachments/assets/0fa20ed3-3803-42b4-a774-4583870113b1" />
+<img width="1986" height="751" alt="Screenshot 2026-11-23 213003" src="https://github.com/user-attachments/assets/7bba56dd-7682-49f6-8da6-069f93c7e818" />
+<img width="1911" height="700" alt="Screenshot 2026-11-23 213128" src="https://github.com/user-attachments/assets/86532a1b-d146-442f-9b16-929a0e3f9e07" />
+
+Then, finally, fine mesh. I got a maximum stress of 1.387 times 10 to the eighth newtons per meter squared for the bottomness, with a max deflection of 1.245 times 10 to the 2 millimeters, and a factor of safety of 2.535.
+
+<img width="1725" height="720" alt="Screenshot 2026-11-23 230248" src="https://github.com/user-attachments/assets/a2151795-3cc5-4089-9afd-390ce4d7abe5" />
+<img width="1685" height="741" alt="Screenshot 2026-11-23 230423" src="https://github.com/user-attachments/assets/9020c9da-5e12-4522-a7e2-3fec1c876d32" />
+<img width="1611" height="768" alt="Screenshot 2026-11-23 230730" src="https://github.com/user-attachments/assets/72fe0e17-6214-44d9-8b46-ca6955f4a4dc" />
+
+
 ### Optimization Pass
 After fully doing this analysis on the assembly, noting the stress concentrations as well as the significant deflection in the center, the main optimizations that could be done to improve this design is adding chamfers and anything to assist with the stress concentrations at the different edges of the object itself, as well as utilizing thicker frames to account for the significant deflection at the center of the simulation. Adding more material would reduce the deflection experienced and would optimize it.
 
