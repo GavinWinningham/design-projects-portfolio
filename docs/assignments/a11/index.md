@@ -1,4 +1,4 @@
-#Motor Selection Design 
+# Motor Selection Design 
 
 For this assignment, we are continuing with the work from last week which included the designing of a leadscrew tensile tester. This week we are in charge of selecting and adding the motor to the tester, designing a frame, and designing a floating bearing. In this assignment we also utilize FEA analysis to ensure our frame holds up. Towards the end we have provided a full bill of materials, labor cost and our entire process for the assignment. 
 
